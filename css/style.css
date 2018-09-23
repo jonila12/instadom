@@ -1,0 +1,53 @@
+
+body {
+background-image: url("../images/back5.png");
+  background-repeat: no-repeat;
+ background-size: auto;
+
+}
+
+#gam {
+
+margin-bottom:  8px;
+
+}
+
+@font-face {
+         font-family: "Billabong";
+         src: url('Billabong.ttf');
+         }
+
+  #textu {
+    font-family: "Billabong";
+    font-size: 70px;
+  }
+
+  .advertisement {
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+    padding: 2%;
+
+  }
+  footer {
+      position: fixed;
+      height: 40px;
+      bottom: 0;
+      width: 100%;
+      background-color: #fff;
+      text-align: center;
+  }
+
+
+
+  #brand {
+    font-family: "Billabong";
+    font-size: 60px;
+
+  }
+
+  li{
+    font-family: "Billabong";
+    font-size: 30px;
+
+  }
